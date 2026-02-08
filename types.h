@@ -4,5 +4,6 @@ typedef enum
 {
     view,
     edit,
+    help,
     unsupported
 } OperationType;

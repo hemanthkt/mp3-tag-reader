@@ -11,7 +11,6 @@ view.h      - View module header
 edit.c      - Edit MP3 tag information
 edit.h      - Edit module header
 types.h     - Common type definitions (OperationType enum)
-Makefile    - Build configuration
 ```
 
 ## Key Improvements
